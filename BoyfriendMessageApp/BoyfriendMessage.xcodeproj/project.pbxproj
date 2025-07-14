@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		49C1BC022E22EC3F00F6BDF0 /* BoyfriendMessage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BoyfriendMessage.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		49C1BC122E22EC4100F6BDF0 /* BoyfriendMessageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BoyfriendMessageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		49C1BC1C2E22EC4100F6BDF0 /* BoyfriendMessageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BoyfriendMessageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		49C1BC022E22EC3F00F6BDF0 /* BoyfriendMessage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = BoyfriendMessage.app; path = "/Users/haru/haru/BoyfriendMessage/boyfriend-message/BoyfriendMessageApp/build/Debug-iphoneos/BoyfriendMessage.app"; sourceTree = "<absolute>"; };
+		49C1BC122E22EC4100F6BDF0 /* BoyfriendMessageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = BoyfriendMessageTests.xctest; path = "/Users/haru/haru/BoyfriendMessage/boyfriend-message/BoyfriendMessageApp/build/Debug-iphoneos/BoyfriendMessage.app/PlugIns/BoyfriendMessageTests.xctest"; sourceTree = "<absolute>"; };
+		49C1BC1C2E22EC4100F6BDF0 /* BoyfriendMessageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = BoyfriendMessageUITests.xctest; path = "/Users/haru/haru/BoyfriendMessage/boyfriend-message/BoyfriendMessageApp/build/Debug-iphoneos/BoyfriendMessageUITests-Runner.app/PlugIns/BoyfriendMessageUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -78,18 +78,7 @@
 				49C1BC042E22EC3F00F6BDF0 /* BoyfriendMessage */,
 				49C1BC152E22EC4100F6BDF0 /* BoyfriendMessageTests */,
 				49C1BC1F2E22EC4100F6BDF0 /* BoyfriendMessageUITests */,
-				49C1BC032E22EC3F00F6BDF0 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		49C1BC032E22EC3F00F6BDF0 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				49C1BC022E22EC3F00F6BDF0 /* BoyfriendMessage.app */,
-				49C1BC122E22EC4100F6BDF0 /* BoyfriendMessageTests.xctest */,
-				49C1BC1C2E22EC4100F6BDF0 /* BoyfriendMessageUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,7 +185,7 @@
 			mainGroup = 49C1BBF92E22EC3F00F6BDF0;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 49C1BC032E22EC3F00F6BDF0 /* Products */;
+			productRefGroup = 49C1BBF92E22EC3F00F6BDF0;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
